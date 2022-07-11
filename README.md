@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# REact tutorial
 
-> Description the project.
+> Building a simple To-do list to practice React.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
 
 ## Live Demo (if available)
 
@@ -25,9 +23,10 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+JavaScript, CSS, HTML
 
 ### Setup
-
+Clone the project.
 ### Install
 
 ### Usage
@@ -40,33 +39,21 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Elisha Tetteyfio**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/elisha-tetteyfio)
+- Twitter: [@twitterhandle](https://twitter.com/Nii_Alyasa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/elisha-tetteyfio)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Elisha-Tetteyfio/React-tutorial/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
