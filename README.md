@@ -26,18 +26,10 @@ To get a local copy up and running follow these simple example steps.
 JavaScript, CSS, HTML
 
 ### Setup
-Clone the project.
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Clone the project. Go to the project directory and run `npm install` then `npm start`
 
 
-
-## Authors
+## Author
 
 👤 **Elisha Tetteyfio**
 
